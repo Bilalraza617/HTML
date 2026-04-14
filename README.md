@@ -45,8 +45,8 @@ Here is a breakdown of what you'll find in this repository:
 No special server or build step is required! Since this is pure HTML, you can simply clone the repository and open any `.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/HTML-Advanced-Journey.git
-cd HTML-Advanced-Journey
+git clone https://github.com/Bilalraza617/HTML
+cd HTML
 ```
 *Note: For some HTML5 APIs (like Fetch or Modules), using a local live server (like VS Code's Live Server extension) is recommended.*
 
@@ -54,8 +54,8 @@ cd HTML-Advanced-Journey
 
 I am actively learning, building, and sharing my web development journey. Feel free to connect with me!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/bilal-raza-2b05812a6/)
+- **GitHub:** [Your GitHub Profile](https://github.com/Bilalraza617)
 
 ---
 *If you find this repository helpful, feel free to give it a ⭐!*
